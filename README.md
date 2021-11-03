@@ -1,0 +1,1 @@
+# Evaluating-Buy-and-Hold-Strategy-Using-Moving-Averages
